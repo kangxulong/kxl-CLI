@@ -1,0 +1,36 @@
+{
+  "name": "kxlCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "kxl": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "Vue",
+    "VueCLI",
+    "VUECLI",
+    "vue-cli",
+    "Vue-CLI",
+    "kxl",
+    "kxl-CLI"
+  ],
+  "author": "kxl",
+  "license": "MIT",
+  "homepage":,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2"
+  }
+}
